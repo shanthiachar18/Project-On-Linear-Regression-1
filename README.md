@@ -6,8 +6,7 @@ Is to predict the delivery time using sorting time.
 Used perticular libreries to perform EDA,plotting and to get data information . Used Linear Regression  model to predict the delivery time.
 # Methodology
 ## 1.Preprocessing and EDA:
-Performed EDA to get more informative features about the given data set.
-* Got the below insights.
+Performed EDA to get more informative features about the given data set and got the below insights.
 * No null values in dataset.
 * No outliers in dataset.
 * delivery time is having 82.5% correlation with sorting time.
