@@ -2,7 +2,7 @@
 Implementation of simple linear regression to predict delivery time.
 # Objective
 Is to predict the delivery time using sorting time.
-# 
+# Overview
 Used perticular libreries to perform EDA,plotting and to get data information . Used Linear Regression  model to predict the delivery time.
 # Methodology
 ## 1.Preprocessing and EDA:
