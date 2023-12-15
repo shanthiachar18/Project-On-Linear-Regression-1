@@ -1,4 +1,4 @@
-# Predction Using Simple Linear Regression
+# Prediction Using Simple Linear Regression
 Implementation of simple linear regression to predict delivery time.
 # Objective
 Is to predict the delivery time using sorting time.
